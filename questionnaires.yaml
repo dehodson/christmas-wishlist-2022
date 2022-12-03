@@ -813,7 +813,7 @@
     - link: null
       item: Chex Mix
     - link: null
-      item: Beef Jerky
+      item: Jerky
     - link: null
       item: Diet Coke
     - link: null
@@ -832,6 +832,10 @@
       item: Whole Bean Coffee
     - link: null
       item: IPAs
+    - link: null
+      item: Foreign Snacks
+    - link: null
+      item: Anything Interesting or Weird!
     header: Favorite Snacks &amp; Drinks
   - items:
     - link: null
@@ -855,7 +859,7 @@
     - link: null
       item: Incense
     - link: null
-      item: Candles
+      item: Scented Candles
     header: Home Items Wanted
   - items: []
     header: Personal Care Items
@@ -865,9 +869,11 @@
     header: Tech Items Wanted
   - items:
     - link: null
-      item: French Graphic Novels
+      item: French Graphic Novels (en Français)
     - link: null
-      item: Strong Towns
+      item: Books About France en Français
+    - link: null
+      item: Strong Towns (Charles Marohn)
     header: Book Wish List
   - items: []
     header: Car Items Wanted
