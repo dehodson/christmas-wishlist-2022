@@ -1,3 +1,87 @@
+- name: Maggie
+  sections:
+  - items:
+    - link: null
+      item: Anything with Peanut Butter and Chocolate
+    - link: null
+      item: Candy
+    - link: null
+      item: (White Cheddar) Popcorn
+    - link: null
+      item: Voodoo Chips
+    - link: null
+      item: Red Cream Soda
+    header: Favorite Snacks &amp; Drinks
+  - items:
+    - link: null
+      item: Animals in General
+    - link: null
+      item: Music
+    - link: null
+      item: Horror
+    - link: null
+      item: Movies
+    - link: null
+      item: Halloween! (The Holiday)
+    header: Hobbies &amp; Interests
+  - items:
+    - link: null
+      item: Black
+    - link: null
+      item: Red
+    - link: null
+      item: Fall &amp; Xmas Scents
+    - link: null
+      item: Mint and Eucalyptus
+    header: Favorite Colors &amp; Scents
+  - items: []
+    header: Home Items Wanted
+  - items:
+    - link: null
+      item: The Body Shop Body Butter (Almond Milk + Honey Scent)
+    header: Personal Care Items
+  - items:
+    - link: null
+      item: Cat Toys / Enrichment
+    header: Gifts for Pets
+  - items: []
+    header: Tech Items Wanted
+  - items: []
+    header: Book Wish List
+  - items: []
+    header: Car Items Wanted
+  - items:
+    - link: null
+      item: Inglorious Basterds
+    - link: null
+      item: Fright Night (1985)
+    - link: null
+      item: The Batman (2022)
+    - link: null
+      item: Kill Bill 1 &amp; 2
+    header: Music / Video Wish List
+  - items:
+    - link: null
+      item: Cheesecake Factory
+    header: Favorite Restaurants
+  - items:
+    - link: null
+      item: Hot Topic
+    - link: null
+      item: Amazon
+    header: Gift Card Ideas
+  - items: []
+    header: Desk / Office Items Wanted
+  - items: []
+    header: Donate to ___ in my Name
+  - items:
+    - link: null
+      item: T-shirts
+    header: I DON'T Want / Need
+  - items:
+    - link: null
+      item: Mugs
+    header: Misc. Gift Ideas
 - name: Heather
   sections:
   - items:
