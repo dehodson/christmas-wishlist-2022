@@ -750,6 +750,10 @@
       item: Reese's
     - link: null
       item: Rice Crispy Treats
+    - link: null
+      item: White Chocolate Mocha
+    - link: null
+      item: Coffee with French Vanilla
     header: Favorite Snacks &amp; Drinks
   - items:
     - link: null
@@ -796,6 +800,8 @@
       item: Catnip
     - link: null
       item: Jackson Galaxy Toys
+    - link: null
+      item: Treats
     header: Gifts for Pets
   - items: []
     header: Tech Items Wanted
@@ -808,6 +814,10 @@
   - items:
     - link: null
       item: Weird Al Yankovic
+    - link: null
+      item: Coraline
+    - link: null
+      item: Little Shop of Horrors
     header: Music / Video Wish List
   - items:
     - link: null
@@ -845,7 +855,9 @@
     - link: null
       item: Toothpaste
     header: I DON'T Want / Need
-  - items: []
+  - items: 
+    - link: null
+      item: Fuzzy Socks
     header: Misc. Gift Ideas
 - name: Jason
   sections:
