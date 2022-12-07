@@ -20,7 +20,9 @@
     header: Favorite Colors &amp; Scents
   - items: []
     header: Home Items Wanted
-  - items: []
+  - items:
+    - link: null
+      item: Back Scratcher
     header: Personal Care Items
   - items: []
     header: Gifts for Pets
