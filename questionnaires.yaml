@@ -95,6 +95,8 @@
     header: Car Items Wanted
   - items:
     - link: null
+      item: The Four Freshmen
+    - link: null
       item: Westminster Chorus
     header: Music / Video Wish List
   - items:
@@ -471,6 +473,8 @@
       item: Dog Biscuits
     header: Gifts for Pets
   - items:
+    - link: https://www.amazon.com/hz/wishlist/ls/3GU5JCWTV2YAH/?ref_=lol_ov_le
+      item: Link to my Amazon Wishlist!
     - link: null
       item: Kindle Page Turner with Remote Control
     - link: null
