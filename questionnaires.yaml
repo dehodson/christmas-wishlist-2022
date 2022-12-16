@@ -18,7 +18,11 @@
     - link: null
       item: Eucalyptus
     header: Favorite Colors &amp; Scents
-  - items: []
+  - items:
+    - link: https://www.amazon.com/dp/B076ZLL5ZS
+      item: Silicone Kitchen Sponges
+    - link: https://www.amazon.com/dp/B00NGWJCIA
+      item: Scrub Daddy Kitchen Sponges
     header: Home Items Wanted
   - items:
     - link: null
@@ -1200,5 +1204,7 @@
     header: Donate to ___ in my Name
   - items: []
     header: I DON'T Want / Need
-  - items: []
+  - items:
+    - link: https://store.steampowered.com/app/975370/Dwarf_Fortress/
+      item: Dwarf Fortress (Video Game)
     header: Misc. Gift Ideas
